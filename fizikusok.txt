@@ -5,3 +5,4 @@ Michael Faraday;elektromágneses indukció;1831
 Marie Curie;radioaktivitás;1898
 Richard Feynman;quandtum elektrodinamika;1940
 Galileo Galilei;Jupiter holdjai;1610
+Thomas Young;szem működése;1773
