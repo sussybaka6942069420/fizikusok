@@ -1,0 +1,7 @@
+Szívesen bemutatjuk programunkat:
+Programunk a következőket csinálja:
+Fizikusok felsorolása ABC sorrendbe
+fizikusok keresése név szerint, évszám szerint
+legnagyobb évszám, legkissebb évszám, átlagos év kiszámolása
+Program kilépése
+Hozzá kell adni egy fizikus képét!!!

@@ -1,0 +1,4 @@
+Sorrendbe rendezni a fizikusokat nagyság szerint
+Fizikus hozzáadása a listához
+Keresés évszám szerint
+Ha entert-nyom akkor ujra csinalja a programot

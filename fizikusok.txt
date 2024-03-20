@@ -1,8 +1,7 @@
-Isaac Newton;gravitáció;1665
-Albert Einstein;relativitás;1905
-Eötvös Lóránd;kapillaritás;1870
-Michael Faraday;elektromágneses indukció;1831
-Marie Curie;radioaktivitás;1898
+Isaac Newton;gravitaco;1665
+Albert Einstein;relativitas;1905
+Eotvos Lorand;kapillaritas;1870
+Michael Faraday;elektromagneses indukcio;1831
+Marie Curie;radioaktivitas;1898
 Richard Feynman;quandtum elektrodinamika;1940
 Galileo Galilei;Jupiter holdjai;1610
-Thomas Young;szem működése;1773
